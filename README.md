@@ -20,7 +20,8 @@ Small businesses and accounting teams spend hours manually reading invoices, typ
 6. **Review:** A results screen shows what was extracted and matched.
 
 ## Architecture
-![Workflow diagram](diagram.png)
+<img width="1093" height="157" alt="01_BahiKhata_ss" src="https://github.com/user-attachments/assets/94447327-8779-441a-b0e8-187b08fdd573" />
+
 
 ## Key Technical Challenges Solved
 - Handling base64 PDF data correctly in n8n expressions for the Claude API
@@ -29,11 +30,10 @@ Small businesses and accounting teams spend hours manually reading invoices, typ
 - Zoho Books OAuth setup and India-edition field requirements (GST)
 - Wiring n8n webhook paths to a React front end
 
-## Demo
-🎥 [Watch the Loom demo](YOUR-LOOM-LINK)
+
 
 ## Files
-- `workflow.json` — n8n workflow export (credentials removed)
+- `workflow.json` — n8n workflow export
 - `diagram.png` — architecture diagram
 
 ---
