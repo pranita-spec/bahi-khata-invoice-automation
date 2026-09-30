@@ -5,6 +5,8 @@ An end-to-end accounts payable pipeline that turns incoming invoice PDFs into po
 **Built with:** n8n · Claude API · OpenAI Embeddings · Supabase (pgvector) · Zoho Books API · React · Gmail
 
 ---
+<img width="1093" height="157" alt="01_BahiKhata_ss" src="https://github.com/user-attachments/assets/bd526064-2956-4f3a-b5d7-2dd0b387c6f7" />
+[bahi khata workflow.json](https://github.com/user-attachments/files/32845875/bahi.khata.workflow.json)
 
 ## The Problem
 Small businesses and accounting teams spend hours manually reading invoices, typing line items into accounting software, and deciding which GL account each expense belongs to. It's slow, repetitive, and error-prone.
